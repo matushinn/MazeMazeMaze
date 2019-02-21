@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AECF042B-FBBF-9024-C2B7-CE4BA0B3A596}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GaryuGames/Assets/Mize/scripts/MazeMake.cs">
+    <Files>
+      <File FileName="Assets/GaryuGames/Assets/Mize/scripts/MazeMake.cs" Line="6" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
